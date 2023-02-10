@@ -1,0 +1,44 @@
+/* Write your CSS here */
+.Match-background {
+  width: 72vw;
+  background-color: #0f172a;
+  margin: 10px;
+  height: 60vh;
+}
+
+.heading1 {
+  color: #ffffff;
+  font-size: 30px;
+  font-family: 'Bree-serif';
+}
+
+.heading2 {
+  color: #ffffff;
+  font-size: 30px;
+  font-family: 'Bree-serif';
+}
+
+.heading3 {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Bree-serif';
+}
+
+.container1 {
+  display: flex;
+  justify-content: space-around;
+  align-items: space-around;
+  align-self: center;
+}
+
+.heading4 {
+  color: #ffffff;
+  font-size: 25px;
+  font-family: 'Bree-serif';
+}
+
+.team-logo-style1 {
+  height: 200px;
+  width: 200px;
+  padding-top: 50px;
+}

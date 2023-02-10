@@ -1,0 +1,61 @@
+/* Write your CSS here */
+@media screen and (max-width: 576px) and (min-width: 576px) {
+  .team-image-style {
+    height: 30px;
+    width: 30px;
+  }
+
+  .horizon2 {
+    display: flex;
+    justify-content: center;
+    padding-left: 10px;
+    align-items: center;
+  }
+  .heading2 {
+    color: #ffffff;
+    font-size: 15px;
+    font-family: 'Bree Serif';
+    font-weight: bold;
+  }
+  .white-card {
+    background-color: #ffffff33;
+    opacity: 30%;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    border: 2px solid #ffffff;
+    height: 100px;
+    width: 170px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .team-image-style {
+    height: 80px;
+    width: 80px;
+  }
+
+  .horizon2 {
+    display: flex;
+    justify-content: center;
+    padding-left: 10px;
+    align-items: center;
+  }
+  .heading2 {
+    color: #ffffff;
+    font-size: 35px;
+    font-family: 'Bree Serif';
+    padding-left: 30px;
+    font-weight: bold;
+  }
+  .white-card {
+    background-color: #ffffff33;
+    opacity: 30%;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    border: 2px solid #ffffff;
+    height: 150px;
+    width: 480px;
+  }
+}
